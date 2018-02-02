@@ -15,6 +15,7 @@
 		58D192D62023F1F80028DA5C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58D192D42023F1F80028DA5C /* LaunchScreen.storyboard */; };
 		58D192E12023F1F80028DA5C /* Cooking_It_UpTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58D192E02023F1F80028DA5C /* Cooking_It_UpTests.swift */; };
 		58D192EC2023F1F80028DA5C /* Cooking_It_UpUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58D192EB2023F1F80028DA5C /* Cooking_It_UpUITests.swift */; };
+		58D192FC2023F2FF0028DA5C /* InitialScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58D192FB2023F2FF0028DA5C /* InitialScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		58D192E72023F1F80028DA5C /* Cooking It UpUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cooking It UpUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		58D192EB2023F1F80028DA5C /* Cooking_It_UpUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cooking_It_UpUITests.swift; sourceTree = "<group>"; };
 		58D192ED2023F1F80028DA5C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58D192FB2023F2FF0028DA5C /* InitialScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				58D192C82023F1F80028DA5C /* AppDelegate.swift */,
 				58D192CA2023F1F80028DA5C /* ViewController.swift */,
 				58D192CC2023F1F80028DA5C /* Main.storyboard */,
+				58D192FB2023F2FF0028DA5C /* InitialScreenViewController.swift */,
 				58D192D22023F1F80028DA5C /* Assets.xcassets */,
 				58D192D42023F1F80028DA5C /* LaunchScreen.storyboard */,
 				58D192D72023F1F80028DA5C /* Info.plist */,
@@ -265,6 +268,7 @@
 				58D192D12023F1F80028DA5C /* Cooking_It_Up.xcdatamodeld in Sources */,
 				58D192CB2023F1F80028DA5C /* ViewController.swift in Sources */,
 				58D192C92023F1F80028DA5C /* AppDelegate.swift in Sources */,
+				58D192FC2023F2FF0028DA5C /* InitialScreenViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
